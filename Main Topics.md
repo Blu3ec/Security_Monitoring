@@ -7,12 +7,12 @@
 #### Identification and Analysis
 #### Required Knowledge
 #### Security Monitoring Tasks
-2.	Security Monitoring Infrastructure
-  a.	Lab Architecture
-  b.	Windows Setup and Logging
-  c.	Linux Setup and Logging
-  d.	NSM Setup and Logging
-  e.	SIEM Setup
+### Security Monitoring Infrastructure
+#### Lab Architecture
+#### Windows Setup and Logging
+#### Linux Setup and Logging
+#### NSM Setup and Logging
+#### SIEM Setup
 3.	Splunk as a Security Monitoring Solution
   a.	Introduction to Splunk
   b.	Splunk Architecture
