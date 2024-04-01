@@ -1,12 +1,12 @@
 # Security Monitoring Course Topics
 ## Security Monitoring Fundamentals
 
-1.	Getting Start
-  a.	SOC Components
-  b.	Security Monitoring Process
-  c.	Identification and Analysis
-  d.	Required Knowledge
-  e.	Security Monitoring Tasks
+### Getting Start
+#### SOC Components
+#### Security Monitoring Process
+#### Identification and Analysis
+#### Required Knowledge
+#### Security Monitoring Tasks
 2.	Security Monitoring Infrastructure
   a.	Lab Architecture
   b.	Windows Setup and Logging
